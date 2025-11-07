@@ -49,3 +49,4 @@
 2025-10-17 21:08:58,623 [Worker-39: Launching docker-springboot - DockerSpringbootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-10-17 21:08:58,813 [Worker-39: Launching docker-springboot - DockerSpringbootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-10-17 21:08:58,819 [Worker-39: Launching docker-springboot - DockerSpringbootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\3-1Oddsem\InSemLabP\DOCKER-Petcare\docker-springboot\src\test\resources
+2025-11-07 11:56:17,762 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
